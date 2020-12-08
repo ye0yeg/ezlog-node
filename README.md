@@ -1,6 +1,6 @@
 ### ezlog
 ### 安装方法
-`npm install ezlog`
+`npm install @ye0yeg/ezlog`
 
 #### 1: 如何使用ezlog
 
