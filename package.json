@@ -1,0 +1,19 @@
+{
+  "name": "@ye0yeg/ezlog",
+  "version": "0.0.2",
+  "description": "later",
+  "main": "ezlog.js",
+  "dependencies": {
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "log",
+    "file"
+  ],
+  "author": "chenshaoye",
+  "license": "ISC"
+}
